@@ -9,3 +9,7 @@ const guessField = document.querySelector(".guessField");
 
 let guessCount= 1;
 let resetButtton;
+
+function checkGuess() {
+    alert("Soy un marcador de posición");
+}
